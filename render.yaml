@@ -5,8 +5,8 @@ services:
     plan: free
     branch: main
     rootDir: .
-    dockerCommand: bash start.sh
-    repo: https://github.com/TheRepthon/Render.git
+    dockerCommand: bash Repthon.sh
+    repo: https://github.com/Scalingo-baqir/Deploy.git
     region: frankfurt
     envVars:
       - key: API_ID
