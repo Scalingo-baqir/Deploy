@@ -39,6 +39,7 @@ img2html
 jikanpy
 justwatch
 jotquote
+jiosaavn
 kvsqlite
 kwot
 lottie
